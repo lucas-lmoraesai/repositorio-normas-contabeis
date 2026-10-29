@@ -1,35 +1,35 @@
 [
-  {
-    "id": "CPC 00 (R2)",
-    "title": "Estrutura Conceitual para Relatório Financeiro",
-    "category": "CPC",
-    "status": "Vigente",
-    "cfc": "NBC TG ESTRUTURA CONCEITUAL",
-    "ifrs": "Conceptual Framework (IASB)",
-    "link": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos",
-    "desc": "Define os conceitos fundamentais para a elaboração e apresentação das demonstrações contábeis de fins gerais.",
-    "notes": "Revisão R2 alinhada integralmente ao arcabouço conceitual do IASB."
-  },
-  {
-    "id": "CPC 01 (R1)",
-    "title": "Redução ao Valor Recuperável de Ativos",
-    "category": "CPC",
-    "status": "Vigente",
-    "cfc": "NBC TG 01",
-    "ifrs": "IAS 36",
-    "link": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos",
-    "desc": "Assegura que os ativos não estejam contabilizados por valor superior ao seu valor recuperável por uso ou venda.",
-    "notes": "Aplica-se a teste anual de goodwill e imobilizado/intangível."
-  },
-  {
-    "id": "CBPS 01",
-    "title": "Divulgação de Inf. Financeiras de Sustentabilidade",
-    "category": "CBPS",
-    "status": "Vigente",
-    "cfc": "CBPS 01",
-    "ifrs": "IFRS S1",
-    "link": "https://www.cpc.org.br/",
-    "desc": "Exigência de divulgação de riscos e oportunidades ESG com impacto financeiro.",
-    "notes": "Obrigatório para companhias abertas via Resolução CVM 193 em 2026."
-  }
+{
+"id": "CPC 00 (R2)",
+"title": "Estrutura Conceitual para Relatório Financeiro",
+"category": "CPC",
+"status": "Vigente",
+"cfc": "NBC TG ESTRUTURA CONCEITUAL",
+"ifrs": "Conceptual Framework (IASB)",
+"link": "https://s3.sa-east-1.amazonaws.com/static.cpc.aatb.com.br/Documentos/573_CPC00(R2).pdf",
+"desc": "Define os conceitos fundamentais para a elaboração e apresentação das demonstrações contábeis de fins gerais.",
+"notes": "Revisão R2 alinhada integralmente ao arcabouço conceitual do IASB."
+},
+{
+"id": "CPC 01 (R1)",
+"title": "Redução ao Valor Recuperável de Ativos",
+"category": "CPC",
+"status": "Vigente",
+"cfc": "NBC TG 01",
+"ifrs": "IAS 36",
+"link": "https://s3.sa-east-1.amazonaws.com/static.cpc.aatb.com.br/Documentos/27_CPC01_R1.pdf",
+"desc": "Assegura que os ativos não estejam contabilizados por valor superior ao seu valor recuperável por uso ou venda.",
+"notes": "Aplica-se a teste anual de goodwill e imobilizado/intangível."
+},
+{
+"id": "CBPS 01",
+"title": "Divulgação de Inf. Financeiras de Sustentabilidade",
+"category": "CBPS",
+"status": "Vigente",
+"cfc": "CBPS 01",
+"ifrs": "IFRS S1",
+"link": "https://s3.sa-east-1.amazonaws.com/static.cpc.aatb.com.br/Documentos/728_CBPS_01.pdf",
+"desc": "Exigência de divulgação de riscos e oportunidades ESG com impacto financeiro.",
+"notes": "Obrigatório para companhias abertas via Resolução CVM 193 em 2026."
+}
 ]
